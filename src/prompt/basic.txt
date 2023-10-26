@@ -1,0 +1,1 @@
+Create a table of the top up to 7 best ${product} ranked by average rating across as many search results as possible where the columns are the up to 7 most important aspects of such a product: preferring numbers or values corroborated by multiple sources.
